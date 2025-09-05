@@ -3,13 +3,13 @@ name: Deploy MkDocs to GitHub Pages
 on:
   push:
     branches:
-      - main   # Cada vez que hagas cambios en main
+      - main   
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 🔑 Necesario para hacer push al branch gh-pages
+      contents: write   
 
     steps:
       - name: Checkout repo
