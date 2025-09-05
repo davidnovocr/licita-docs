@@ -4,8 +4,8 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: lime         # Verde lima (navbar, encabezados, links)
-      accent: light green   # Verde claro para acentos (botones, resaltados)
+      primary: lime         
+      accent: light green  
     - scheme: slate
       primary: lime
       accent: light green
