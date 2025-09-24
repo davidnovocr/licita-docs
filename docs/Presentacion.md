@@ -6,4 +6,4 @@
     src="https://www.canva.com/design/DAGz2sapxYs/XKkdR0o26C6zwR83VgotJQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGz2sapxYs&#x2F;XKkdR0o26C6zwR83VgotJQ&#x2F;view?utm_content=DAGz2sapxYs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copia de PPT ADMISIÓN</a> de Liliana Salazar
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGz2sapxYs&#x2F;XKkdR0o26C6zwR83VgotJQ&#x2F;view?utm_content=DAGz2sapxYs&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">PPT ADMISIÓN</a> de Licita
