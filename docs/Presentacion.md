@@ -8,7 +8,3 @@
   </iframe>
 </div>
 
-<a href="https://www.canva.com/design/DAG0Bu4uQCE/ZObBrPzVOSWCOMQGnG3jeg/view?utm_content=DAG0Bu4uQCE&utm_campaign=designshare&utm_medium=embeds&utm_source=link" 
-   target="_blank" rel="noopener">
-   ADMISIÓN
-</a> de Licita CR
